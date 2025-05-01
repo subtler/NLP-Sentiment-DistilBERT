@@ -6,3 +6,4 @@ scikit-learn
 numpy
 pyyaml
 tqdm
+nest_asyncio
