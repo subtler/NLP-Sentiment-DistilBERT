@@ -1,6 +1,6 @@
 streamlit==1.45.0
-torch==2.7.0
-transformers==4.51.3
+torch>=2.7.0
+transformers>=4.30.0
 pandas
 scikit-learn
 numpy
