@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # ✨ Sentiment Analysis using DistilBERT (Multi-Class NLP Classifier)
 
 A transformer-based NLP project that classifies tweet sentiments into **Positive**, **Neutral**, or **Negative** using **DistilBERT** from HuggingFace. This project showcases end-to-end fine-tuning, evaluation, and interface building for real-world applications in text classification.
@@ -60,4 +57,3 @@ A transformer-based NLP project that classifies tweet sentiments into **Positive
 ### 🔧 Setup
 ```bash
 pip install -r requirements.txt
->>>>>>> 📝 Added professional README and structured folders
