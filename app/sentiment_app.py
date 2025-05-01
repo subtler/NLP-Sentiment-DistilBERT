@@ -1,3 +1,7 @@
+import asyncio
+import nest_asyncio
+nest_asyncio.apply()
+
 import streamlit as st
 import torch
 from transformers import DistilBertTokenizerFast, DistilBertForSequenceClassification
