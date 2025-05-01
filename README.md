@@ -1,5 +1,1 @@
-streamlit
-torch
-transformers
-pandas
-numpy
+
